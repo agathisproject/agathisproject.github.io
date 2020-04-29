@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agathis Project – Agathis Project</title>
+    <link>https://agathisproject.github.io/</link>
+    <description>Recent content on Agathis Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://agathisproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+    <item>
+      <title>Blog: website is up</title>
+      <link>https://agathisproject.github.io/blog/2020/04/22/website-is-up/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agathisproject.github.io/blog/2020/04/22/website-is-up/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Today, the Agathis Project website was published for the first time; it&amp;rsquo;s only a newborn - its structure looks ok for now and ready to grow.
+It&amp;rsquo;s not walking yet, but that&amp;rsquo;s fine too. It&amp;rsquo;s learning, mostly from my mistakes. There will be many. I don&amp;rsquo;t see the shortcuts yet.&lt;/p&gt;
+&lt;p&gt;The website is designed to &lt;strong&gt;introduce the Agathis Project&lt;/strong&gt; to all its prospective collaborators.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;labor&lt;/strong&gt; part in the &lt;strong&gt;collaborators&lt;/strong&gt; is essential, although not limiting to building machines and tools, hardware or software. The collaboration may come in many other forms, such as using the said machines, sharing an idea on how to make them better, spreading the word, feedback of any sign, or any kind of neural activity triggered while navigating the site.&lt;/p&gt;
+&lt;p&gt;After you are already in, the website can be used as periodical reality check, an alignment tool or a compass to verify the directions are right.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The site is build using open-source &lt;strong&gt;Hugo&lt;/strong&gt; site generator with a &lt;strong&gt;Docsy&lt;/strong&gt; template.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
