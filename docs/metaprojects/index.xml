@@ -14,6 +14,44 @@
     
     
     <item>
+      <title>Docs: github pages</title>
+      <link>https://agathisproject.github.io/docs/metaprojects/githubpages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agathisproject.github.io/docs/metaprojects/githubpages/</guid>
+      <description>
+        
+        
+        &lt;!--
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+
+&lt;/div&gt;
+
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;this website is hosted on GitHub Pages and published from address &lt;a href=&#34;https://agathisproject.github.io&#34;&gt;https://agathisproject.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the sources for the website are hosted on GitHub AgathisProject &lt;em&gt;organization&lt;/em&gt; in repository agathisproject.github.io.sources &lt;a href=&#34;https://github.com/agathisproject/agathisproject.github.io.sources&#34;&gt;https://github.com/agathisproject/agathisproject.github.io.sources&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the website is generated locally using &lt;strong&gt;Hugo&lt;/strong&gt; static site generator with a &lt;strong&gt;Docsy&lt;/strong&gt; theme&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the website as rendered by Hugo in the public folder of  &lt;strong&gt;agathisproject.github.io.sources&lt;/strong&gt; is a git submodule hosted in repository &lt;strong&gt;agathisproject.github.io&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the &lt;strong&gt;agathisproject.github.io&lt;/strong&gt; repository is used by the GitHub Pages machine to serve the website&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: workflow</title>
       <link>https://agathisproject.github.io/docs/metaprojects/workflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

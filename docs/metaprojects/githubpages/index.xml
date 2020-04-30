@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agathis Project – github pages</title>
+    <link>https://agathisproject.github.io/docs/metaprojects/githubpages/</link>
+    <description>Recent content in github pages on Agathis Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://agathisproject.github.io/docs/metaprojects/githubpages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

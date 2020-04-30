@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://agathisproject.github.io/docs/metaprojects/githubpages/</loc>
+  </url>
+  
+  <url>
     <loc>https://agathisproject.github.io/docs/projects/system_specs/</loc>
     <lastmod>2020-04-29T14:00:23-04:00</lastmod>
   </url>
