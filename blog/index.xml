@@ -14,6 +14,46 @@
     
     
     <item>
+      <title>Blog: ficus-elastica repo creation</title>
+      <link>https://agathisproject.github.io/blog/2020/05/01/ficus-elastica-repo-creation/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agathisproject.github.io/blog/2020/05/01/ficus-elastica-repo-creation/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;Created the &lt;a href=&#34;https://github.com/agathisproject/ficus-elastica&#34;&gt;ficus-elastica&lt;/a&gt; repository to document the &lt;strong&gt;workflow on Agathis Projects&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Blog: ficus-elastica work branch creation</title>
+      <link>https://agathisproject.github.io/blog/2020/05/01/ficus-elastica-work-branch-creation/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agathisproject.github.io/blog/2020/05/01/ficus-elastica-work-branch-creation/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Created the &lt;em&gt;work&lt;/em&gt; branch in repository &lt;a href=&#34;https://github.com/agathisproject/ficus-elastica&#34;&gt;ficus-elastica&lt;/a&gt; to start documenting the &lt;strong&gt;workflow on Agathis Projects&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After creative work is completed, there will be a pull request to validate the doc set and eventually merge the branch into the &lt;em&gt;master&lt;/em&gt; branch.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Note the &lt;em&gt;master&lt;/em&gt; branch of the git is reserved for releases through a pull request review process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Blog: website is up</title>
       <link>https://agathisproject.github.io/blog/2020/04/22/website-is-up/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
