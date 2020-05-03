@@ -13,6 +13,36 @@
     
     
     <item>
+      <title>Blog: On Project Names</title>
+      <link>https://agathisproject.github.io/blog/2020/05/02/on-project-names/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agathisproject.github.io/blog/2020/05/02/on-project-names/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;The work around here is organized in projects, each one with its own repository; they &lt;strong&gt;must&lt;/strong&gt; be uniquely identified.&lt;/li&gt;
+&lt;li&gt;Using the description of the project as its name is a horrible idea.&lt;/li&gt;
+&lt;li&gt;The project names must have some level of consistency; numbers, or other random codes are out of the question.&lt;/li&gt;
+&lt;li&gt;Choosing a project name should be an easy task - as easy as pick one from a list.&lt;/li&gt;
+&lt;li&gt;Need a pool of project names lager than 1000.&lt;/li&gt;
+&lt;li&gt;I like trees.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;i-decided&#34;&gt;&lt;strong&gt;I decided:&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;1-the-projects-shall-be-named-from-the-list-of-practical-unlimited-supply-provided-by-the-list-of-trees-and-shrubs-by-taxonomic-familyhttpsenwikipediaorgwikilist_of_trees_and_shrubs_by_taxonomic_family-the-list-is-1351-long-plenty-to-choose-from&#34;&gt;1. The projects &lt;strong&gt;shall&lt;/strong&gt; be named from the list of practical unlimited supply provided by the &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_trees_and_shrubs_by_taxonomic_family&#34;&gt;List of trees and shrubs by taxonomic family&lt;/a&gt;. The list is 1351 long, plenty to choose from.&lt;/h4&gt;
+&lt;h4 id=&#34;2-the-repository-name-shall-be-same-as-the-project-name&#34;&gt;2. The repository name &lt;strong&gt;shall&lt;/strong&gt; be same as the project name.&lt;/h4&gt;
+&lt;h4 id=&#34;3-the-name-shall--use-the-latin-variant-with-a-hyphen-as-in-juniperus-ashey&#34;&gt;3. The name &lt;strong&gt;shall&lt;/strong&gt;  use the latin variant with a hyphen as in &lt;em&gt;juniperus-ashey&lt;/em&gt;.&lt;/h4&gt;
+&lt;h4 id=&#34;4-no-tree-is-above-others---in-other-words-bigger-is-not-better-distinctive-or-more-different-is&#34;&gt;4. No tree is above others - in other words, bigger is not better. Distinctive or more different is.&lt;/h4&gt;
+&lt;h4 id=&#34;5-look-at-the-names-already-in-use-choose-a-good-one-and-easy-to-remember-name-or-ask-for-help&#34;&gt;5. Look at the names already in use, choose a good one and easy to remember name, or ask for help.&lt;/h4&gt;
+&lt;h4 id=&#34;6-each-project-name-goes-through-one-month-trial-period---if-something-soundslooksfeels-out-of-place-about-the-name-then-pick-another-name-anyone-can-share-their-opinion-but-i-will-take-the-final-decision&#34;&gt;6. Each project name goes through one month trial period - if something sounds/looks/feels out of place about the name, then pick another name. Anyone can share their opinion, but I will take the final decision.&lt;/h4&gt;
+&lt;h4 id=&#34;7-some-project-names-need-to-be-supported-with-a-short-descriptive-name-until-they-grow-stronger-and-get-a-general-recognition-on-their-own-ex-ficus-elastica-workflow&#34;&gt;7. Some project names need to be supported with a short descriptive name until they grow stronger and get a general recognition on their own (ex: ficus-elastica workflow)&lt;/h4&gt;
+&lt;h4 id=&#34;8-until-a-more-suitable-process-is-introduced-i-will-rule-and-take-responsibility-on-any-issues-related-to-project-naming&#34;&gt;8. Until a more suitable process is introduced, I will rule and take responsibility on any issues related to project naming.&lt;/h4&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Blog: website is up</title>
       <link>https://agathisproject.github.io/blog/2020/04/22/website-is-up/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>

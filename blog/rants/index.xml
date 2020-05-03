@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agathis Project – Agathis Project Blog</title>
-    <link>https://agathisproject.github.io/blog/</link>
-    <description>Recent content in Agathis Project Blog on Agathis Project</description>
+    <title>Agathis Project – Rants</title>
+    <link>https://agathisproject.github.io/blog/rants/</link>
+    <description>Recent content in Rants on Agathis Project</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://agathisproject.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://agathisproject.github.io/blog/rants/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -39,27 +39,6 @@
 &lt;h4 id=&#34;6-each-project-name-goes-through-one-month-trial-period---if-something-soundslooksfeels-out-of-place-about-the-name-then-pick-another-name-anyone-can-share-their-opinion-but-i-will-take-the-final-decision&#34;&gt;6. Each project name goes through one month trial period - if something sounds/looks/feels out of place about the name, then pick another name. Anyone can share their opinion, but I will take the final decision.&lt;/h4&gt;
 &lt;h4 id=&#34;7-some-project-names-need-to-be-supported-with-a-short-descriptive-name-until-they-grow-stronger-and-get-a-general-recognition-on-their-own-ex-ficus-elastica-workflow&#34;&gt;7. Some project names need to be supported with a short descriptive name until they grow stronger and get a general recognition on their own (ex: ficus-elastica workflow)&lt;/h4&gt;
 &lt;h4 id=&#34;8-until-a-more-suitable-process-is-introduced-i-will-rule-and-take-responsibility-on-any-issues-related-to-project-naming&#34;&gt;8. Until a more suitable process is introduced, I will rule and take responsibility on any issues related to project naming.&lt;/h4&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Blog: website is up</title>
-      <link>https://agathisproject.github.io/blog/2020/04/22/website-is-up/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://agathisproject.github.io/blog/2020/04/22/website-is-up/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Today, the Agathis Project website was published for the first time; it&amp;rsquo;s only a newborn - its structure looks ok for now and ready to grow.
-It&amp;rsquo;s not walking yet, but that&amp;rsquo;s fine too. It&amp;rsquo;s learning, mostly from my mistakes. There will be many. I don&amp;rsquo;t see the shortcuts yet.&lt;/p&gt;
-&lt;p&gt;The website is designed to &lt;strong&gt;introduce the Agathis Project&lt;/strong&gt; to all its prospective collaborators.&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;labor&lt;/strong&gt; part in the &lt;strong&gt;collaborators&lt;/strong&gt; is essential, although not limiting to building machines and tools, hardware or software. The collaboration may come in many other forms, such as using the said machines, sharing an idea on how to make them better, spreading the word, feedback of any sign, or any kind of neural activity triggered while navigating the site.&lt;/p&gt;
-&lt;p&gt;After you are already in, the website can be used as periodical reality check, an alignment tool or a compass to verify the directions are right.
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;The site is build using open-source &lt;strong&gt;Hugo&lt;/strong&gt; site generator with a &lt;strong&gt;Docsy&lt;/strong&gt; template.&lt;/p&gt;
 
       </description>
     </item>
