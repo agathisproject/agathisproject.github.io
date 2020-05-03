@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agathis Project – workflow</title>
+    <title>Agathis Project – ficus-elastica</title>
     <link>https://agathisproject.github.io/docs/metaprojects/workflow/</link>
-    <description>Recent content in workflow on Agathis Project</description>
+    <description>Recent content in ficus-elastica on Agathis Project</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="https://agathisproject.github.io/docs/metaprojects/workflow/index.xml" rel="self" type="application/rss+xml" />

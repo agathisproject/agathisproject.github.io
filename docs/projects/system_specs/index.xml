@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agathis Project – system specs</title>
+    <title>Agathis Project – pinus-rigida</title>
     <link>https://agathisproject.github.io/docs/projects/system_specs/</link>
-    <description>Recent content in system specs on Agathis Project</description>
+    <description>Recent content in pinus-rigida on Agathis Project</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="https://agathisproject.github.io/docs/projects/system_specs/index.xml" rel="self" type="application/rss+xml" />
